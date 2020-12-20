@@ -35,7 +35,13 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* Had difficulty pulling as it would wipe out original files
+* App would occasionally give errors without navigation controller
+
+These are things that I failed to do and wish to work on more:
+* Implement settings view
+* Implement dark mode toggle
+* Animations in the UI
 
 ## License
 
